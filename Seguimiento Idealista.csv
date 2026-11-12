@@ -1,0 +1,649 @@
+﻿Fecha,Ciudad,Nivel,Alquileres,€/m2 alquiler,Ventas,€/m2 venta,Enlace
+2026-10-06,Madrid,Municipio,9135.0,29.43,18931.0,6919.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-06,Palma de Mallorca,Municipio,1033.0,23.31,4606.0,6343.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-06,Barcelona,Municipio,2429.0,33.4,13072.0,5913.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-06,Bilbao,Municipio,377.0,18.63,1679.0,4363.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-06,Málaga,Municipio,1655.0,19.75,5098.0,4238.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-06,Valencia,Municipio,2342.0,19.72,5570.0,3783.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-06,A Coruña,Municipio,329.0,13.6,1002.0,3540.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-06,Vitoria-Gasteiz,Municipio,57.0,15.55,877.0,3191.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-06,Sevilla,Municipio,1624.0,15.02,3804.0,3157.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-06,Las Palmas de Gran Canaria,Municipio,741.0,18.09,1491.0,3126.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-06,Gijón,Municipio,438.0,13.66,1307.0,3101.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-06,Móstoles,Municipio,46.0,16.16,545.0,3050.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-06,Santa Cruz de Tenerife,Municipio,241.0,15.79,687.0,3041.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-06,Alicante,Municipio,1106.0,16.97,4413.0,3001.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-06,Granada,Municipio,1558.0,11.64,4163.0,2916.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-06,Vigo,Municipio,366.0,14.22,1700.0,2907.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-06,Badalona,Municipio,67.0,21.97,1859.0,2667.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-06,Oviedo,Municipio,600.0,12.61,1314.0,2529.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-06,Zaragoza,Municipio,442.0,14.3,2230.0,2525.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-06,Valladolid,Municipio,253.0,11.81,1163.0,2506.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-06,Sabadell,Municipio,31.0,14.78,2201.0,2357.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-06,Terrassa,Municipio,28.0,15.41,1747.0,2296.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-06,Elche,Municipio,313.0,12.21,1863.0,2122.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-06,Jerez de la frontera,Municipio,133.0,11.93,1228.0,2043.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-06,Cartagena,Municipio,376.0,10.87,1954.0,1968.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-06,Córdoba,Municipio,613.0,10.53,3583.0,1923.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-06,Murcia,Municipio,912.0,10.7,3811.0,1874.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-07,Madrid,Municipio,9105.0,29.45,18957.0,6923.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-07,Palma de Mallorca,Municipio,1032.0,23.31,4613.0,6340.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-07,Barcelona,Municipio,2428.0,33.43,13075.0,5913.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-07,Bilbao,Municipio,378.0,18.56,1678.0,4365.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-07,Málaga,Municipio,1654.0,19.74,5094.0,4238.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-07,Valencia,Municipio,2330.0,19.72,5570.0,3784.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-07,A Coruña,Municipio,321.0,13.64,997.0,3540.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-07,Vitoria-Gasteiz,Municipio,55.0,15.61,876.0,3190.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-07,Sevilla,Municipio,1610.0,15.03,3787.0,3166.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-07,Las Palmas de Gran Canaria,Municipio,736.0,18.07,1498.0,3124.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-07,Gijón,Municipio,426.0,13.69,1297.0,3105.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-07,Móstoles,Municipio,43.0,16.1,548.0,3052.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-07,Santa Cruz de Tenerife,Municipio,239.0,15.8,686.0,3042.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-07,Alicante,Municipio,1109.0,16.97,4433.0,2996.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-07,Granada,Municipio,1544.0,11.61,4200.0,2915.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-07,Vigo,Municipio,362.0,14.27,1700.0,2904.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-07,Badalona,Municipio,68.0,22.14,1887.0,2684.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-07,Oviedo,Municipio,598.0,12.62,1309.0,2540.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-07,Zaragoza,Municipio,426.0,14.36,2239.0,2525.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-07,Valladolid,Municipio,249.0,11.79,1168.0,2507.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-07,Sabadell,Municipio,29.0,14.69,2190.0,2361.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-07,Terrassa,Municipio,28.0,17.71,1748.0,2305.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-07,Elche,Municipio,309.0,12.23,1871.0,2120.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-07,Jerez de la frontera,Municipio,131.0,12.02,1232.0,2038.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-07,Cartagena,Municipio,372.0,10.88,1960.0,1959.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-07,Córdoba,Municipio,604.0,10.51,3579.0,1923.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-07,Murcia,Municipio,897.0,10.69,3825.0,1875.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-08,Madrid,Municipio,8859.0,29.51,18880.0,6931.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-08,Palma de Mallorca,Municipio,1038.0,23.19,4622.0,6346.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-08,Barcelona,Municipio,2388.0,33.32,13124.0,5907.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-08,Bilbao,Municipio,371.0,18.57,1705.0,4358.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-08,Málaga,Municipio,1622.0,19.82,5099.0,4251.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-08,Valencia,Municipio,2312.0,19.78,5600.0,3781.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-08,A Coruña,Municipio,322.0,13.62,1002.0,3540.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-08,Vitoria-Gasteiz,Municipio,56.0,15.59,869.0,3192.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-08,Sevilla,Municipio,1566.0,15.07,3791.0,3173.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-08,Las Palmas de Gran Canaria,Municipio,724.0,18.17,1489.0,3133.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-08,Gijón,Municipio,425.0,13.7,1301.0,3105.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-08,Móstoles,Municipio,41.0,15.74,547.0,3060.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-08,Santa Cruz de Tenerife,Municipio,240.0,15.82,684.0,3040.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-08,Alicante,Municipio,1104.0,17.01,4442.0,2997.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-08,Granada,Municipio,1498.0,11.6,4200.0,2919.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-08,Vigo,Municipio,351.0,14.31,1705.0,2905.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-08,Badalona,Municipio,66.0,22.27,1885.0,2684.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-08,Oviedo,Municipio,601.0,12.66,1309.0,2538.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-08,Zaragoza,Municipio,424.0,14.42,2257.0,2522.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-08,Valladolid,Municipio,240.0,12.02,1160.0,2508.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-08,Sabadell,Municipio,27.0,14.97,2188.0,2357.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-08,Terrassa,Municipio,26.0,18.45,1745.0,2302.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-08,Elche,Municipio,300.0,12.32,1889.0,2118.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-08,Jerez de la frontera,Municipio,138.0,11.89,1234.0,2022.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-08,Cartagena,Municipio,372.0,10.81,1952.0,1970.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-08,Córdoba,Municipio,590.0,10.53,3584.0,1922.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-08,Murcia,Municipio,877.0,10.71,3841.0,1876.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-09,Madrid,Municipio,8756.0,,18943.0,6924.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-09,Palma de Mallorca,Municipio,1042.0,23.12,4639.0,6348.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-09,Barcelona,Municipio,2314.0,33.22,13146.0,5908.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-09,Bilbao,Municipio,385.0,18.65,1707.0,4361.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-09,Málaga,Municipio,1596.0,19.86,5107.0,4242.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-09,Valencia,Municipio,2279.0,19.82,5637.0,3782.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-09,A Coruña,Municipio,307.0,13.69,987.0,3558.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-09,Vitoria-Gasteiz,Municipio,56.0,15.94,870.0,3199.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-09,Sevilla,Municipio,1541.0,15.1,3814.0,3171.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-09,Las Palmas de Gran Canaria,Municipio,705.0,18.12,1493.0,3138.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-09,Gijón,Municipio,412.0,13.74,1297.0,3117.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-09,Móstoles,Municipio,40.0,15.55,551.0,3054.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-09,Santa Cruz de Tenerife,Municipio,243.0,15.82,694.0,3018.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-09,Alicante,Municipio,1086.0,17.03,4420.0,2997.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-09,Granada,Municipio,1462.0,11.61,4201.0,2916.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-09,Vigo,Municipio,353.0,14.21,1702.0,2900.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-09,Badalona,Municipio,66.0,22.34,1896.0,2695.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-09,Oviedo,Municipio,614.0,12.71,1314.0,2546.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-09,Zaragoza,Municipio,421.0,14.49,2262.0,2519.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-09,Valladolid,Municipio,235.0,12.18,1164.0,2513.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-09,Sabadell,Municipio,26.0,14.76,2200.0,2353.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-09,Terrassa,Municipio,20.0,16.67,1751.0,2306.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-09,Elche,Municipio,291.0,12.37,1885.0,2118.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-09,Jerez de la frontera,Municipio,127.0,12.01,1245.0,2047.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-09,Cartagena,Municipio,369.0,10.84,1961.0,1973.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-09,Córdoba,Municipio,581.0,10.54,3561.0,1918.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-09,Murcia,Municipio,861.0,10.7,3844.0,1889.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-13,Madrid,Municipio,8599.0,29.72,19134.0,6915.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-13,Palma de Mallorca,Municipio,1025.0,23.06,4648.0,6326.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-13,Barcelona,Municipio,2282.0,33.24,13176.0,5914.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-13,Bilbao,Municipio,347.0,18.7,1719.0,4364.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-13,Málaga,Municipio,1575.0,19.94,5144.0,4233.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-13,Valencia,Municipio,2246.0,19.83,5664.0,3787.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-13,A Coruña,Municipio,290.0,13.71,994.0,3547.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-13,Vitoria-Gasteiz,Municipio,53.0,15.93,886.0,3207.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-13,Sevilla,Municipio,1518.0,15.08,3823.0,3162.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-13,Las Palmas de Gran Canaria,Municipio,676.0,18.09,1512.0,3139.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-13,Gijón,Municipio,400.0,13.74,1311.0,3109.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-13,Móstoles,Municipio,34.0,15.74,553.0,3051.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-13,Santa Cruz de Tenerife,Municipio,228.0,15.62,701.0,3016.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-13,Alicante,Municipio,1070.0,17.11,4422.0,2998.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-13,Granada,Municipio,1435.0,11.65,4203.0,2925.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-13,Vigo,Municipio,351.0,14.27,1699.0,2896.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-13,Badalona,Municipio,63.0,22.68,1919.0,2710.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-13,Oviedo,Municipio,605.0,12.71,1323.0,2550.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-13,Zaragoza,Municipio,403.0,14.61,2271.0,2519.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-13,Valladolid,Municipio,236.0,12.19,1176.0,2505.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-13,Sabadell,Municipio,24.0,14.55,2219.0,2380.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-13,Terrassa,Municipio,17.0,18.01,1751.0,2303.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-13,Elche,Municipio,284.0,12.4,1881.0,2109.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-13,Jerez de la frontera,Municipio,128.0,12.24,1242.0,2038.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-13,Cartagena,Municipio,359.0,10.94,1947.0,1976.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-13,Córdoba,Municipio,564.0,10.58,3531.0,1916.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-13,Murcia,Municipio,833.0,10.71,3865.0,1890.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-14,Madrid,Municipio,,,,,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-14,Palma de Mallorca,Municipio,1026.0,22.98,4663.0,6338.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-14,Barcelona,Municipio,2277.0,33.23,13073.0,5926.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-14,Bilbao,Municipio,340.0,18.77,1713.0,4377.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-14,Málaga,Municipio,1560.0,20.17,5120.0,4250.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-14,Valencia,Municipio,2241.0,19.84,5649.0,3791.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-14,A Coruña,Municipio,285.0,13.82,997.0,3541.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-14,Vitoria-Gasteiz,Municipio,52.0,15.95,888.0,3204.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-14,Sevilla,Municipio,1491.0,15.14,3787.0,3182.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-14,Las Palmas de Gran Canaria,Municipio,655.0,18.12,1516.0,3159.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-14,Gijón,Municipio,387.0,13.74,1302.0,3124.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-14,Móstoles,Municipio,35.0,15.79,552.0,3065.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-14,Santa Cruz de Tenerife,Municipio,224.0,15.76,697.0,3009.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-14,Alicante,Municipio,1037.0,17.22,4398.0,2997.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-14,Granada,Municipio,1370.0,11.7,4212.0,2925.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-14,Vigo,Municipio,346.0,14.35,1709.0,2910.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-14,Badalona,Municipio,58.0,22.51,1923.0,2721.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-14,Oviedo,Municipio,588.0,12.69,1320.0,2556.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-14,Zaragoza,Municipio,413.0,14.59,2265.0,2528.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-14,Valladolid,Municipio,231.0,12.28,1174.0,2484.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-14,Sabadell,Municipio,25.0,14.9,2220.0,2383.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-14,Terrassa,Municipio,16.0,18.39,1736.0,2310.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-14,Elche,Municipio,283.0,12.41,1866.0,2110.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-14,Jerez de la frontera,Municipio,124.0,12.15,1245.0,2049.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-14,Cartagena,Municipio,354.0,10.95,1903.0,2002.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-14,Córdoba,Municipio,574.0,10.51,3545.0,1913.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-14,Murcia,Municipio,841.0,10.76,3810.0,1922.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-15,Madrid,Municipio,8524.0,29.74,19186.0,6926.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-15,Palma de Mallorca,Municipio,1024.0,22.84,4667.0,6336.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-15,Barcelona,Municipio,2272.0,33.19,13067.0,5923.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-15,Bilbao,Municipio,342.0,18.72,1715.0,4379.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-15,Málaga,Municipio,1557.0,20.19,5108.0,4244.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-15,Valencia,Municipio,2236.0,19.87,5650.0,3793.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-15,A Coruña,Municipio,286.0,13.92,1001.0,3547.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-15,Vitoria-Gasteiz,Municipio,53.0,15.95,877.0,3207.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-15,Sevilla,Municipio,1477.0,15.16,3812.0,3180.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-15,Las Palmas de Gran Canaria,Municipio,660.0,18.13,1517.0,3154.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-15,Gijón,Municipio,384.0,13.73,1306.0,3118.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-15,Móstoles,Municipio,34.0,16.05,556.0,3064.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-15,Santa Cruz de Tenerife,Municipio,226.0,15.72,700.0,3010.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-15,Alicante,Municipio,1025.0,17.27,4394.0,2996.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-15,Granada,Municipio,1417.0,11.65,4215.0,2917.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-15,Vigo,Municipio,340.0,14.4,1713.0,2908.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-15,Badalona,Municipio,57.0,22.79,1932.0,2718.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-15,Oviedo,Municipio,593.0,12.64,1324.0,2558.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-15,Zaragoza,Municipio,403.0,14.65,2266.0,2528.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-15,Valladolid,Municipio,231.0,12.22,1175.0,2489.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-15,Sabadell,Municipio,27.0,15.57,2220.0,2381.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-15,Terrassa,Municipio,16.0,18.11,1748.0,2310.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-15,Elche,Municipio,281.0,12.46,1859.0,2113.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-15,Jerez de la frontera,Municipio,122.0,12.15,1244.0,2051.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-15,Cartagena,Municipio,353.0,10.99,1895.0,2001.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-15,Córdoba,Municipio,575.0,10.51,3509.0,1915.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-15,Murcia,Municipio,844.0,10.77,3818.0,1923.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-16,Madrid,Municipio,8437.0,29.8,19230.0,6930.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-16,Palma de Mallorca,Municipio,1025.0,22.8,4659.0,6330.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-16,Barcelona,Municipio,2252.0,33.07,13142.0,5914.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-16,Bilbao,Municipio,338.0,18.72,1718.0,4374.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-16,Málaga,Municipio,1539.0,20.17,5105.0,4246.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-16,Valencia,Municipio,2208.0,19.89,5673.0,3794.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-16,A Coruña,Municipio,276.0,14.08,1004.0,3553.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-16,Vitoria-Gasteiz,Municipio,52.0,16.09,880.0,3202.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-16,Sevilla,Municipio,1452.0,15.23,3807.0,3174.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-16,Las Palmas de Gran Canaria,Municipio,643.0,18.18,1534.0,3135.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-16,Gijón,Municipio,378.0,13.77,1314.0,3114.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-16,Móstoles,Municipio,34.0,16.22,564.0,3052.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-16,Santa Cruz de Tenerife,Municipio,222.0,15.73,710.0,3031.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-16,Alicante,Municipio,1013.0,17.32,4412.0,2991.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-16,Granada,Municipio,1411.0,11.66,4266.0,2926.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-16,Vigo,Municipio,348.0,14.47,1712.0,2898.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-16,Badalona,Municipio,49.0,23.09,1987.0,2689.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-16,Oviedo,Municipio,585.0,12.64,1345.0,2570.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-16,Zaragoza,Municipio,399.0,14.65,2266.0,2528.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-16,Valladolid,Municipio,231.0,12.29,1180.0,2494.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-16,Sabadell,Municipio,20.0,15.64,2222.0,2383.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-16,Terrassa,Municipio,16.0,17.74,1741.0,2297.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-16,Elche,Municipio,284.0,12.51,1852.0,2109.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-16,Jerez de la frontera,Municipio,119.0,12.16,1243.0,2052.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-16,Cartagena,Municipio,359.0,11.07,1903.0,2005.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-16,Córdoba,Municipio,565.0,10.45,3488.0,1915.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-16,Murcia,Municipio,837.0,10.75,3832.0,1918.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-19,Madrid,Municipio,8347.0,29.88,19347.0,6927.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-19,Palma de Mallorca,Municipio,1028.0,22.79,4680.0,6329.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-19,Barcelona,Municipio,2208.0,33.32,13197.0,5904.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-19,Bilbao,Municipio,333.0,18.8,1714.0,4387.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-19,Málaga,Municipio,1512.0,20.32,5142.0,4246.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-19,Valencia,Municipio,2203.0,19.92,5747.0,3792.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-19,A Coruña,Municipio,276.0,14.02,1000.0,3564.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-19,Vitoria-Gasteiz,Municipio,52.0,15.96,885.0,3199.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-19,Sevilla,Municipio,1425.0,15.22,3782.0,3184.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-19,Las Palmas de Gran Canaria,Municipio,654.0,18.22,1544.0,3140.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-19,Gijón,Municipio,370.0,13.68,1315.0,3112.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-19,Móstoles,Municipio,35.0,15.87,577.0,3061.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-19,Santa Cruz de Tenerife,Municipio,225.0,15.84,709.0,3017.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-19,Alicante,Municipio,995.0,17.33,4437.0,2989.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-19,Granada,Municipio,1397.0,11.69,4271.0,2935.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-19,Vigo,Municipio,346.0,14.46,1708.0,2900.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-19,Badalona,Municipio,49.0,23.48,1996.0,2677.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-19,Oviedo,Municipio,575.0,12.71,1345.0,2572.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-19,Zaragoza,Municipio,408.0,14.62,2290.0,2526.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-19,Valladolid,Municipio,238.0,12.1,1179.0,2490.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-19,Sabadell,Municipio,23.0,15.29,2214.0,2382.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-19,Terrassa,Municipio,14.0,18.56,1746.0,2301.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-19,Elche,Municipio,274.0,12.58,1859.0,2115.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-19,Jerez de la frontera,Municipio,120.0,12.2,1249.0,2055.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-19,Cartagena,Municipio,356.0,11.06,1906.0,2006.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-19,Córdoba,Municipio,551.0,10.51,3515.0,1916.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-19,Murcia,Municipio,835.0,10.77,3838.0,1924.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-20,Madrid,Municipio,8281.0,29.81,19371.0,6923.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-20,Palma de Mallorca,Municipio,1037.0,22.8,4682.0,6332.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-20,Barcelona,Municipio,2174.0,33.27,13263.0,5905.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-20,Bilbao,Municipio,323.0,18.89,1737.0,4389.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-20,Málaga,Municipio,1527.0,20.27,5149.0,4241.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-20,Valencia,Municipio,2172.0,19.95,5736.0,3800.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-20,A Coruña,Municipio,276.0,14.02,996.0,3565.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-20,Vitoria-Gasteiz,Municipio,48.0,16.1,888.0,3202.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-20,Sevilla,Municipio,1427.0,15.28,3805.0,3182.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-20,Las Palmas de Gran Canaria,Municipio,647.0,18.25,1556.0,3134.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-20,Gijón,Municipio,359.0,13.78,1324.0,3074.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-20,Móstoles,Municipio,34.0,16.32,573.0,3065.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-20,Santa Cruz de Tenerife,Municipio,223.0,15.91,703.0,3023.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-20,Alicante,Municipio,990.0,17.24,4435.0,2994.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-20,Granada,Municipio,1375.0,11.69,4261.0,2933.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-20,Vigo,Municipio,348.0,14.47,1708.0,2904.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-20,Badalona,Municipio,52.0,24.2,1991.0,2674.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-20,Oviedo,Municipio,566.0,12.73,1341.0,2576.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-20,Zaragoza,Municipio,396.0,14.6,2300.0,2530.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-20,Valladolid,Municipio,234.0,12.12,1184.0,2485.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-20,Sabadell,Municipio,21.0,16.05,2211.0,2378.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-20,Terrassa,Municipio,14.0,19.67,1739.0,2301.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-20,Elche,Municipio,274.0,12.53,1867.0,2115.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-20,Jerez de la frontera,Municipio,115.0,12.35,1244.0,2055.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-20,Cartagena,Municipio,356.0,11.06,1916.0,2001.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-20,Córdoba,Municipio,551.0,10.53,3524.0,1923.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-20,Murcia,Municipio,833.0,10.8,3820.0,1929.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-21,Madrid,Municipio,8284.0,29.84,19466.0,6921.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-21,Palma de Mallorca,Municipio,1033.0,22.74,4684.0,6339.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-21,Barcelona,Municipio,2198.0,33.18,13333.0,5904.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-21,Bilbao,Municipio,324.0,18.86,1741.0,4391.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-21,Málaga,Municipio,1533.0,20.27,5173.0,4229.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-21,Valencia,Municipio,2166.0,19.95,5746.0,3802.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-21,A Coruña,Municipio,274.0,13.97,1004.0,3557.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-21,Vitoria-Gasteiz,Municipio,49.0,16.01,890.0,3204.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-21,Sevilla,Municipio,1427.0,15.33,3843.0,3175.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-21,Las Palmas de Gran Canaria,Municipio,639.0,18.23,1550.0,3147.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-21,Gijón,Municipio,363.0,13.9,1327.0,3078.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-21,Móstoles,Municipio,37.0,16.71,570.0,3062.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-21,Santa Cruz de Tenerife,Municipio,221.0,15.94,707.0,3020.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-21,Alicante,Municipio,984.0,17.27,4432.0,2991.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-21,Granada,Municipio,1382.0,11.64,4288.0,2937.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-21,Vigo,Municipio,340.0,14.49,1719.0,2906.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-21,Badalona,Municipio,50.0,24.28,2004.0,2675.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-21,Oviedo,Municipio,565.0,12.74,1347.0,2594.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-21,Zaragoza,Municipio,397.0,14.59,2312.0,2525.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-21,Valladolid,Municipio,229.0,12.07,1192.0,2487.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-21,Sabadell,Municipio,19.0,15.95,2215.0,2376.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-21,Terrassa,Municipio,16.0,18.02,1766.0,2298.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-21,Elche,Municipio,264.0,12.47,1878.0,2116.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-21,Jerez de la frontera,Municipio,115.0,12.29,1262.0,2056.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-21,Cartagena,Municipio,354.0,11.02,1914.0,2000.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-21,Córdoba,Municipio,561.0,10.55,3500.0,1922.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-21,Murcia,Municipio,835.0,10.74,3832.0,1930.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-22,Madrid,Municipio,8229.0,29.98,19491.0,6924.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-22,Palma de Mallorca,Municipio,1024.0,22.73,4690.0,6346.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-22,Barcelona,Municipio,2193.0,33.48,13390.0,5901.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-22,Bilbao,Municipio,321.0,18.91,1739.0,4380.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-22,Málaga,Municipio,1533.0,20.29,5192.0,4225.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-22,Valencia,Municipio,2159.0,20.04,5741.0,3805.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-22,A Coruña,Municipio,273.0,13.98,1011.0,3552.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-22,Vitoria-Gasteiz,Municipio,45.0,16.29,885.0,3203.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-22,Sevilla,Municipio,1430.0,15.36,3860.0,3178.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-22,Las Palmas de Gran Canaria,Municipio,636.0,18.19,1547.0,3154.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-22,Gijón,Municipio,357.0,13.9,1328.0,3076.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-22,Móstoles,Municipio,38.0,16.68,576.0,3058.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-22,Santa Cruz de Tenerife,Municipio,214.0,15.79,711.0,3021.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-22,Alicante,Municipio,978.0,17.27,4403.0,2994.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-22,Granada,Municipio,1365.0,11.65,4261.0,2937.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-22,Vigo,Municipio,334.0,14.54,1722.0,2906.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-22,Badalona,Municipio,48.0,24.74,2005.0,2673.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-22,Oviedo,Municipio,563.0,12.73,1383.0,2620.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-22,Zaragoza,Municipio,399.0,14.7,2318.0,2529.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-22,Valladolid,Municipio,217.0,12.21,1195.0,2490.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-22,Sabadell,Municipio,20.0,16.24,2223.0,2377.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-22,Terrassa,Municipio,16.0,18.21,1772.0,2297.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-22,Elche,Municipio,253.0,12.63,1884.0,2122.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-22,Jerez de la frontera,Municipio,112.0,12.35,1274.0,2062.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-22,Cartagena,Municipio,359.0,10.98,1923.0,1996.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-22,Córdoba,Municipio,568.0,10.58,3495.0,1921.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-22,Murcia,Municipio,824.0,10.79,3837.0,,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-23,Madrid,Municipio,8213.0,30.03,19636.0,6915.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-23,Palma de Mallorca,Municipio,1024.0,22.73,4710.0,6343.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-23,Barcelona,Municipio,2231.0,33.44,13371.0,5902.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-23,Bilbao,Municipio,323.0,18.94,1746.0,4377.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-23,Málaga,Municipio,1532.0,20.3,5219.0,4231.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-23,Valencia,Municipio,2146.0,19.98,5738.0,3804.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-23,A Coruña,Municipio,268.0,14.03,1008.0,3555.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-23,Vitoria-Gasteiz,Municipio,43.0,16.56,885.0,3206.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-23,Sevilla,Municipio,1440.0,15.38,3865.0,3178.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-23,Las Palmas de Gran Canaria,Municipio,630.0,18.23,1570.0,3151.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-23,Gijón,Municipio,350.0,13.88,1328.0,3071.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-23,Móstoles,Municipio,38.0,16.39,576.0,3050.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-23,Santa Cruz de Tenerife,Municipio,212.0,15.61,722.0,3016.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-23,Alicante,Municipio,960.0,17.29,4405.0,2991.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-23,Granada,Municipio,1356.0,11.65,4245.0,2930.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-23,Vigo,Municipio,317.0,14.65,1744.0,2898.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-23,Badalona,Municipio,53.0,23.89,2012.0,2671.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-23,Oviedo,Municipio,554.0,12.75,1385.0,2611.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-23,Zaragoza,Municipio,394.0,14.72,2320.0,2529.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-23,Valladolid,Municipio,218.0,12.27,1183.0,2496.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-23,Sabadell,Municipio,23.0,15.63,2209.0,2380.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-23,Terrassa,Municipio,14.0,19.66,1782.0,2300.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-23,Elche,Municipio,252.0,12.64,1884.0,2120.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-23,Jerez de la frontera,Municipio,108.0,12.22,1287.0,2063.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-23,Cartagena,Municipio,357.0,10.99,1926.0,2002.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-23,Córdoba,Municipio,563.0,10.61,3515.0,1918.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-23,Murcia,Municipio,815.0,10.81,3871.0,1920.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-26,Madrid,Municipio,8156.0,30.26,19746.0,6906.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-26,Palma de Mallorca,Municipio,1010.0,22.8,4711.0,6336.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-26,Barcelona,Municipio,2249.0,33.75,13420.0,5900.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-26,Bilbao,Municipio,317.0,18.99,1751.0,4371.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-26,Málaga,Municipio,1535.0,20.25,5262.0,4226.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-26,Valencia,Municipio,2127.0,19.97,5753.0,3801.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-26,A Coruña,Municipio,263.0,14.03,1020.0,3548.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-26,Vitoria-Gasteiz,Municipio,39.0,16.97,894.0,3207.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-26,Sevilla,Municipio,1414.0,15.36,3827.0,3192.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-26,Las Palmas de Gran Canaria,Municipio,624.0,18.15,1587.0,3153.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-26,Gijón,Municipio,340.0,13.87,1325.0,3080.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-26,Móstoles,Municipio,37.0,15.97,578.0,3046.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-26,Santa Cruz de Tenerife,Municipio,211.0,15.73,722.0,3024.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-26,Alicante,Municipio,952.0,17.43,4421.0,2994.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-26,Granada,Municipio,1327.0,11.7,4282.0,2935.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-26,Vigo,Municipio,319.0,14.42,1737.0,2896.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-26,Badalona,Municipio,53.0,23.89,1990.0,2660.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-26,Oviedo,Municipio,554.0,12.68,1375.0,2623.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-26,Zaragoza,Municipio,393.0,14.62,2323.0,2524.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-26,Valladolid,Municipio,221.0,12.25,1185.0,2489.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-26,Sabadell,Municipio,22.0,15.65,2231.0,2396.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-26,Terrassa,Municipio,16.0,18.59,1795.0,2306.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-26,Elche,Municipio,256.0,12.62,1911.0,2120.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-26,Jerez de la frontera,Municipio,111.0,12.15,1285.0,2067.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-26,Cartagena,Municipio,355.0,11.06,1932.0,2007.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-26,Córdoba,Municipio,564.0,10.61,3539.0,1919.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-26,Murcia,Municipio,799.0,10.85,3861.0,1917.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-27,Madrid,Municipio,8093.0,30.29,19770.0,6900.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-27,Palma de Mallorca,Municipio,996.0,22.73,4718.0,6344.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-27,Barcelona,Municipio,2229.0,33.61,13393.0,5900.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-27,Bilbao,Municipio,316.0,18.99,1747.0,4372.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-27,Málaga,Municipio,1540.0,20.28,5291.0,4220.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-27,Valencia,Municipio,2118.0,19.98,5752.0,3806.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-27,A Coruña,Municipio,257.0,14.22,1022.0,3549.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-27,Vitoria-Gasteiz,Municipio,37.0,17.04,894.0,3214.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-27,Sevilla,Municipio,1406.0,15.36,3851.0,3199.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-27,Las Palmas de Gran Canaria,Municipio,610.0,18.16,1590.0,3173.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-27,Gijón,Municipio,337.0,13.88,1330.0,3080.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-27,Móstoles,Municipio,36.0,16.03,571.0,3049.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-27,Santa Cruz de Tenerife,Municipio,213.0,15.63,726.0,3030.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-27,Alicante,Municipio,947.0,17.39,4408.0,2991.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-27,Granada,Municipio,1319.0,11.68,4262.0,2939.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-27,Vigo,Municipio,312.0,14.46,1743.0,2900.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-27,Badalona,Municipio,53.0,23.51,1975.0,2664.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-27,Oviedo,Municipio,543.0,12.75,1390.0,2628.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-27,Zaragoza,Municipio,386.0,14.65,2324.0,2524.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-27,Valladolid,Municipio,216.0,12.2,1188.0,2487.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-27,Sabadell,Municipio,24.0,15.88,2238.0,2396.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-27,Terrassa,Municipio,17.0,18.92,1790.0,2304.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-27,Elche,Municipio,250.0,12.7,1911.0,2107.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-27,Jerez de la frontera,Municipio,109.0,12.37,1299.0,2072.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-27,Cartagena,Municipio,356.0,11.1,1939.0,2006.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-27,Córdoba,Municipio,565.0,10.6,3523.0,1913.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-27,Murcia,Municipio,799.0,10.87,3868.0,1917.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-28,Madrid,Municipio,8117.0,30.3,19818.0,6895.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-28,Palma de Mallorca,Municipio,991.0,22.73,4711.0,6329.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-28,Barcelona,Municipio,2200.0,33.7,13419.0,5893.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-28,Bilbao,Municipio,318.0,18.97,1746.0,4366.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-28,Málaga,Municipio,1530.0,20.26,5307.0,4222.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-28,Valencia,Municipio,2081.0,20.08,5781.0,3809.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-28,A Coruña,Municipio,255.0,14.25,1022.0,3553.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-28,Vitoria-Gasteiz,Municipio,40.0,17.07,900.0,3212.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-28,Sevilla,Municipio,1398.0,15.38,3874.0,3183.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-28,Las Palmas de Gran Canaria,Municipio,610.0,18.12,1592.0,3169.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-28,Gijón,Municipio,333.0,14.05,1331.0,3086.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-28,Móstoles,Municipio,34.0,16.09,576.0,3041.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-28,Santa Cruz de Tenerife,Municipio,210.0,15.78,726.0,3026.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-28,Alicante,Municipio,945.0,17.37,4426.0,2986.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-28,Granada,Municipio,1322.0,11.63,4296.0,2937.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-28,Vigo,Municipio,305.0,14.44,1750.0,2900.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-28,Badalona,Municipio,49.0,23.71,1980.0,2661.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-28,Oviedo,Municipio,540.0,12.73,1397.0,2622.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-28,Zaragoza,Municipio,393.0,14.66,2353.0,2524.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-28,Valladolid,Municipio,216.0,12.31,1192.0,2484.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-28,Sabadell,Municipio,22.0,16.28,2261.0,2404.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-28,Terrassa,Municipio,21.0,17.46,1796.0,2313.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-28,Elche,Municipio,251.0,12.67,1909.0,2103.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-28,Jerez de la frontera,Municipio,110.0,12.34,1313.0,2063.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-28,Cartagena,Municipio,357.0,11.16,1964.0,1979.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-28,Córdoba,Municipio,569.0,10.61,3530.0,1911.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-28,Murcia,Municipio,784.0,10.9,3905.0,1931.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-29,Madrid,Municipio,8045.0,30.35,19818.0,6894.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-29,Palma de Mallorca,Municipio,985.0,22.74,4737.0,6327.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-29,Barcelona,Municipio,2195.0,33.73,13489.0,5889.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-29,Bilbao,Municipio,324.0,19.0,1758.0,4358.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-29,Málaga,Municipio,1521.0,20.31,5310.0,4219.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-29,Valencia,Municipio,2086.0,20.12,5776.0,3803.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-29,A Coruña,Municipio,245.0,14.33,1021.0,3560.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-29,Vitoria-Gasteiz,Municipio,39.0,17.03,898.0,3218.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-29,Sevilla,Municipio,1398.0,15.35,3874.0,3179.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-29,Las Palmas de Gran Canaria,Municipio,610.0,18.01,1584.0,3170.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-29,Gijón,Municipio,330.0,14.08,1334.0,3084.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-29,Móstoles,Municipio,36.0,16.15,572.0,3052.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-29,Santa Cruz de Tenerife,Municipio,204.0,15.89,728.0,3024.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-29,Alicante,Municipio,944.0,17.38,4415.0,2984.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-29,Granada,Municipio,1291.0,11.62,4380.0,2928.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-29,Vigo,Municipio,302.0,14.54,1750.0,2897.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-29,Badalona,Municipio,45.0,24.17,1986.0,2666.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-29,Oviedo,Municipio,542.0,12.75,1399.0,2616.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-29,Zaragoza,Municipio,395.0,14.61,2356.0,2519.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-29,Valladolid,Municipio,215.0,12.31,1188.0,2482.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-29,Sabadell,Municipio,23.0,16.04,2286.0,2402.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-29,Terrassa,Municipio,19.0,18.98,1794.0,2306.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-29,Elche,Municipio,252.0,12.69,1909.0,2106.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-29,Jerez de la frontera,Municipio,104.0,12.39,1326.0,2066.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-29,Cartagena,Municipio,361.0,11.15,1961.0,1978.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-29,Córdoba,Municipio,561.0,10.52,3559.0,1919.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-29,Murcia,Municipio,772.0,10.9,3917.0,1911.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-10-30,Madrid,Municipio,8085.0,30.37,19843.0,6893.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-10-30,Palma de Mallorca,Municipio,978.0,22.81,4744.0,6327.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-10-30,Barcelona,Municipio,2208.0,33.78,13499.0,5894.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-10-30,Bilbao,Municipio,323.0,19.09,1761.0,4357.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-10-30,Málaga,Municipio,1520.0,20.36,5310.0,4223.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-10-30,Valencia,Municipio,2086.0,20.16,5802.0,3802.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-10-30,A Coruña,Municipio,239.0,14.4,1013.0,3562.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-10-30,Vitoria-Gasteiz,Municipio,38.0,17.22,891.0,3220.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-10-30,Sevilla,Municipio,1385.0,15.43,3905.0,3174.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-10-30,Las Palmas de Gran Canaria,Municipio,607.0,18.05,1590.0,3172.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-10-30,Gijón,Municipio,325.0,14.14,1329.0,3089.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-10-30,Móstoles,Municipio,34.0,16.47,575.0,3057.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-10-30,Santa Cruz de Tenerife,Municipio,202.0,15.92,733.0,3032.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-10-30,Alicante,Municipio,945.0,17.35,4401.0,2980.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-10-30,Granada,Municipio,1263.0,11.64,4413.0,2921.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-10-30,Vigo,Municipio,300.0,14.49,1751.0,2903.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-10-30,Badalona,Municipio,45.0,24.17,1994.0,2668.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-10-30,Oviedo,Municipio,530.0,12.76,1407.0,2611.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-10-30,Zaragoza,Municipio,385.0,14.62,2355.0,2519.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-10-30,Valladolid,Municipio,216.0,12.26,1186.0,2476.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-10-30,Sabadell,Municipio,23.0,15.87,2296.0,2412.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-10-30,Terrassa,Municipio,18.0,19.62,1809.0,2309.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-10-30,Elche,Municipio,251.0,12.75,1920.0,2101.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-10-30,Jerez de la frontera,Municipio,107.0,12.44,1342.0,2060.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-10-30,Cartagena,Municipio,365.0,11.16,1969.0,1970.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-10-30,Córdoba,Municipio,559.0,10.56,3560.0,1922.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-10-30,Murcia,Municipio,760.0,10.96,3932.0,1913.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-03,Madrid,Municipio,7954.0,30.19,19704.0,6875.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-03,Palma de Mallorca,Municipio,1004.0,22.62,4717.0,6315.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-03,Barcelona,Municipio,2201.0,32.99,13457.0,5896.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-03,Bilbao,Municipio,327.0,19.05,1759.0,4350.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-03,Málaga,Municipio,1514.0,20.58,5321.0,4216.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-03,Valencia,Municipio,2055.0,19.96,5809.0,3799.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-03,A Coruña,Municipio,242.0,14.15,1040.0,3560.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-03,Vitoria-Gasteiz,Municipio,39.0,17.25,877.0,3201.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-03,Sevilla,Municipio,1357.0,15.47,3909.0,3177.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-03,Las Palmas de Gran Canaria,Municipio,593.0,18.07,1599.0,3173.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-03,Gijón,Municipio,326.0,14.2,1330.0,3088.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-03,Móstoles,Municipio,31.0,16.25,576.0,3055.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-03,Santa Cruz de Tenerife,Municipio,202.0,16.07,725.0,3047.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-03,Alicante,Municipio,934.0,17.55,4359.0,2965.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-03,Granada,Municipio,1224.0,11.66,4432.0,2917.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-03,Vigo,Municipio,304.0,14.66,1727.0,2908.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-03,Badalona,Municipio,48.0,22.67,1986.0,2659.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-03,Oviedo,Municipio,520.0,12.79,1395.0,2610.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-03,Zaragoza,Municipio,387.0,14.67,2327.0,2516.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-03,Valladolid,Municipio,215.0,12.43,1213.0,2500.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-03,Sabadell,Municipio,24.0,15.33,2248.0,2410.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-03,Terrassa,Municipio,20.0,19.67,1811.0,2323.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-03,Elche,Municipio,246.0,12.68,1889.0,2087.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-03,Jerez de la frontera,Municipio,105.0,12.38,1340.0,2068.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-03,Cartagena,Municipio,357.0,11.13,1953.0,1962.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-03,Córdoba,Municipio,549.0,10.53,3584.0,1919.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-03,Murcia,Municipio,757.0,10.97,3964.0,1918.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-04,Madrid,Municipio,8061.0,30.17,19766.0,6865.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-04,Palma de Mallorca,Municipio,1002.0,22.66,4744.0,6320.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-04,Barcelona,Municipio,2235.0,32.81,13502.0,5886.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-04,Bilbao,Municipio,327.0,18.92,1780.0,4359.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-04,Málaga,Municipio,1519.0,20.56,5289.0,4217.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-04,Valencia,Municipio,2061.0,19.93,5816.0,3796.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-04,A Coruña,Municipio,239.0,14.54,1040.0,3577.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-04,Vitoria-Gasteiz,Municipio,39.0,17.0,871.0,3191.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-04,Sevilla,Municipio,1372.0,15.4,3876.0,3185.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-04,Las Palmas de Gran Canaria,Municipio,587.0,18.16,1601.0,3181.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-04,Gijón,Municipio,324.0,14.19,1336.0,3093.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-04,Móstoles,Municipio,29.0,16.56,560.0,3042.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-04,Santa Cruz de Tenerife,Municipio,211.0,16.03,727.0,3039.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-04,Alicante,Municipio,935.0,17.58,4346.0,2962.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-04,Granada,Municipio,1214.0,11.67,4370.0,2918.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-04,Vigo,Municipio,311.0,14.83,1735.0,2912.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-04,Badalona,Municipio,47.0,22.47,2007.0,2662.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-04,Oviedo,Municipio,514.0,12.79,1399.0,2608.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-04,Zaragoza,Municipio,389.0,14.67,2314.0,2518.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-04,Valladolid,Municipio,218.0,12.67,1201.0,2497.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-04,Sabadell,Municipio,22.0,15.49,2274.0,2411.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-04,Terrassa,Municipio,23.0,18.43,1836.0,2330.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-04,Elche,Municipio,242.0,12.77,1890.0,2086.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-04,Jerez de la frontera,Municipio,104.0,12.29,1336.0,2063.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-04,Cartagena,Municipio,358.0,11.1,1961.0,1964.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-04,Córdoba,Municipio,537.0,10.51,3575.0,1915.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-04,Murcia,Municipio,758.0,10.94,3992.0,1912.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-05,Madrid,Municipio,8127.0,30.24,19816.0,6864.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-05,Palma de Mallorca,Municipio,1011.0,22.5,4738.0,6317.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-05,Barcelona,Municipio,2228.0,32.76,13517.0,5881.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-05,Bilbao,Municipio,321.0,18.86,1792.0,4369.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-05,Málaga,Municipio,1527.0,20.59,5308.0,4217.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-05,Valencia,Municipio,2058.0,19.99,5866.0,3788.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-05,A Coruña,Municipio,231.0,14.56,1036.0,3575.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-05,Vitoria-Gasteiz,Municipio,42.0,17.13,880.0,3195.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-05,Sevilla,Municipio,1373.0,15.38,3888.0,3172.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-05,Las Palmas de Gran Canaria,Municipio,585.0,18.15,1600.0,3181.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-05,Gijón,Municipio,321.0,14.25,1330.0,3090.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-05,Móstoles,Municipio,28.0,16.99,570.0,3040.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-05,Santa Cruz de Tenerife,Municipio,219.0,15.94,728.0,3017.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-05,Alicante,Municipio,951.0,17.44,4360.0,2961.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-05,Granada,Municipio,1193.0,11.72,4358.0,2912.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-05,Vigo,Municipio,310.0,14.78,1743.0,2906.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-05,Badalona,Municipio,44.0,22.96,2015.0,2663.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-05,Oviedo,Municipio,514.0,12.8,1403.0,2600.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-05,Zaragoza,Municipio,391.0,14.78,2330.0,2520.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-05,Valladolid,Municipio,226.0,12.58,1202.0,2492.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-05,Sabadell,Municipio,22.0,15.42,2286.0,2404.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-05,Terrassa,Municipio,20.0,18.39,1843.0,2328.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-05,Elche,Municipio,245.0,12.8,1899.0,2088.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-05,Jerez de la frontera,Municipio,102.0,12.31,1341.0,2070.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-05,Cartagena,Municipio,357.0,11.04,1971.0,1961.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-05,Córdoba,Municipio,535.0,10.45,3584.0,1912.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-05,Murcia,Municipio,754.0,10.92,3994.0,1909.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-06,Madrid,Municipio,8182.0,30.28,19860.0,6863.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-06,Palma de Mallorca,Municipio,1028.0,22.37,4765.0,6327.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-06,Barcelona,Municipio,2248.0,32.75,13537.0,5883.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-06,Bilbao,Municipio,325.0,18.97,1782.0,4380.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-06,Málaga,Municipio,1517.0,20.65,5297.0,4281.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-06,Valencia,Municipio,2061.0,20.01,5847.0,3787.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-06,A Coruña,Municipio,230.0,14.67,1034.0,3573.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-06,Vitoria-Gasteiz,Municipio,40.0,17.38,886.0,3191.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-06,Sevilla,Municipio,1362.0,15.39,3896.0,3176.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-06,Las Palmas de Gran Canaria,Municipio,585.0,18.11,1597.0,3190.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-06,Gijón,Municipio,319.0,14.24,1332.0,3089.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-06,Móstoles,Municipio,28.0,16.43,581.0,3031.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-06,Santa Cruz de Tenerife,Municipio,217.0,15.95,733.0,3014.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-06,Alicante,Municipio,952.0,17.44,4359.0,2964.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-06,Granada,Municipio,1183.0,11.72,4371.0,2913.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-06,Vigo,Municipio,322.0,14.78,1743.0,2910.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-06,Badalona,Municipio,47.0,22.66,2024.0,2659.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-06,Oviedo,Municipio,512.0,12.8,1403.0,2602.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-06,Zaragoza,Municipio,400.0,14.83,2334.0,2521.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-06,Valladolid,Municipio,224.0,12.54,1204.0,2499.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-06,Sabadell,Municipio,22.0,15.58,2271.0,2406.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-06,Terrassa,Municipio,19.0,18.61,1836.0,2331.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-06,Elche,Municipio,250.0,12.67,1903.0,2092.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-06,Jerez de la frontera,Municipio,107.0,12.27,1356.0,2071.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-06,Cartagena,Municipio,353.0,11.05,1977.0,1956.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-06,Córdoba,Municipio,508.0,10.44,3609.0,1924.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-06,Murcia,Municipio,739.0,10.98,4012.0,1919.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-10,Madrid,Municipio,8193.0,30.35,20022.0,6867.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-10,Palma de Mallorca,Municipio,1025.0,22.4,4754.0,6307.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-10,Barcelona,Municipio,2320.0,32.59,13582.0,5880.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-10,Bilbao,Municipio,328.0,19.03,1771.0,4376.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-10,Málaga,Municipio,1479.0,20.82,5350.0,4224.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-10,Valencia,Municipio,2072.0,20.07,5859.0,3787.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-10,A Coruña,Municipio,218.0,14.68,1029.0,3555.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-10,Vitoria-Gasteiz,Municipio,39.0,17.65,891.0,3201.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-10,Sevilla,Municipio,1354.0,15.41,3905.0,3177.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-10,Las Palmas de Gran Canaria,Municipio,569.0,18.26,1596.0,3199.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-10,Gijón,Municipio,311.0,14.34,1332.0,3088.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-10,Móstoles,Municipio,33.0,16.84,583.0,3019.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-10,Santa Cruz de Tenerife,Municipio,229.0,15.91,741.0,3033.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-10,Alicante,Municipio,944.0,17.32,4363.0,2975.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-10,Granada,Municipio,1148.0,11.75,4313.0,2917.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-10,Vigo,Municipio,312.0,14.74,1765.0,2910.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-10,Badalona,Municipio,45.0,23.19,2050.0,2670.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-10,Oviedo,Municipio,502.0,12.75,1403.0,2610.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-10,Zaragoza,Municipio,399.0,14.85,2320.0,2530.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-10,Valladolid,Municipio,217.0,12.71,1206.0,2499.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-10,Sabadell,Municipio,26.0,15.69,2284.0,2422.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-10,Terrassa,Municipio,27.0,18.14,1828.0,2336.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-10,Elche,Municipio,256.0,12.41,1888.0,2088.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-10,Jerez de la frontera,Municipio,103.0,12.42,1359.0,2068.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-10,Cartagena,Municipio,340.0,11.02,1987.0,1963.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-10,Córdoba,Municipio,507.0,10.49,3605.0,1936.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-10,Murcia,Municipio,742.0,10.95,4044.0,1922.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/
+2026-11-11,Madrid,Municipio,8185.0,30.41,20090.0,6866.0,https://www.idealista.com/alquiler-viviendas/madrid-madrid/
+2026-11-11,Palma de Mallorca,Municipio,1024.0,22.39,4757.0,6310.0,https://www.idealista.com/venta-viviendas/palma-de-mallorca-balears-illes/
+2026-11-11,Barcelona,Municipio,2303.0,32.67,13597.0,5882.0,https://www.idealista.com/alquiler-viviendas/barcelona-barcelona/
+2026-11-11,Bilbao,Municipio,333.0,19.08,1793.0,4368.0,https://www.idealista.com/alquiler-viviendas/bilbao-vizcaya/
+2026-11-11,Málaga,Municipio,1495.0,20.8,5352.0,4216.0,https://www.idealista.com/venta-viviendas/malaga-malaga/
+2026-11-11,Valencia,Municipio,2069.0,19.99,5896.0,3782.0,https://www.idealista.com/venta-viviendas/valencia-valencia/
+2026-11-11,A Coruña,Municipio,218.0,14.73,1039.0,3552.0,https://www.idealista.com/alquiler-viviendas/a-coruna-a-coruna/
+2026-11-11,Vitoria-Gasteiz,Municipio,38.0,17.4,884.0,3207.0,https://www.idealista.com/venta-viviendas/vitoria-gasteiz-alava/
+2026-11-11,Sevilla,Municipio,1361.0,15.41,3910.0,3168.0,https://www.idealista.com/alquiler-viviendas/sevilla-sevilla/
+2026-11-11,Las Palmas de Gran Canaria,Municipio,568.0,18.22,1588.0,3197.0,https://www.idealista.com/alquiler-viviendas/las-palmas-de-gran-canaria-las-palmas/
+2026-11-11,Gijón,Municipio,314.0,14.38,1333.0,3080.0,https://www.idealista.com/alquiler-viviendas/gijon-asturias/
+2026-11-11,Móstoles,Municipio,31.0,17.04,585.0,3015.0,https://www.idealista.com/alquiler-viviendas/mostoles-madrid/
+2026-11-11,Santa Cruz de Tenerife,Municipio,229.0,15.71,742.0,3032.0,https://www.idealista.com/venta-viviendas/santa-cruz-de-tenerife-santa-cruz-de-tenerife/
+2026-11-11,Alicante,Municipio,933.0,17.34,4326.0,2979.0,https://www.idealista.com/venta-viviendas/alicante-alacant-alicante/
+2026-11-11,Granada,Municipio,1138.0,11.75,4310.0,2910.0,https://www.idealista.com/alquiler-viviendas/granada-granada/
+2026-11-11,Vigo,Municipio,303.0,14.83,1770.0,2913.0,https://www.idealista.com/venta-viviendas/vigo-pontevedra/
+2026-11-11,Badalona,Municipio,45.0,22.92,2069.0,2687.0,https://www.idealista.com/venta-viviendas/badalona-barcelona/
+2026-11-11,Oviedo,Municipio,498.0,12.77,1401.0,2615.0,https://www.idealista.com/venta-viviendas/oviedo-asturias/
+2026-11-11,Zaragoza,Municipio,402.0,14.88,2337.0,2527.0,https://www.idealista.com/venta-viviendas/zaragoza-zaragoza/
+2026-11-11,Valladolid,Municipio,221.0,12.65,1209.0,2504.0,https://www.idealista.com/alquiler-viviendas/valladolid-valladolid/
+2026-11-11,Sabadell,Municipio,24.0,16.49,2266.0,2416.0,https://www.idealista.com/venta-viviendas/sabadell-barcelona/
+2026-11-11,Terrassa,Municipio,25.0,18.65,1841.0,2333.0,https://www.idealista.com/venta-viviendas/terrassa-barcelona/
+2026-11-11,Elche,Municipio,265.0,12.42,1912.0,2089.0,https://www.idealista.com/venta-viviendas/elche-elx-alicante/
+2026-11-11,Jerez de la frontera,Municipio,105.0,12.29,1348.0,2063.0,https://www.idealista.com/venta-viviendas/jerez-de-la-frontera-cadiz/
+2026-11-11,Cartagena,Municipio,340.0,11.11,1976.0,1965.0,https://www.idealista.com/venta-viviendas/cartagena-murcia/
+2026-11-11,Córdoba,Municipio,509.0,10.51,3623.0,1943.0,https://www.idealista.com/venta-viviendas/cordoba-cordoba/
+2026-11-11,Murcia,Municipio,760.0,10.96,4045.0,1924.0,https://www.idealista.com/alquiler-viviendas/murcia-murcia/

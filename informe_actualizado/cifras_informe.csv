@@ -1,0 +1,37 @@
+﻿Apartado;Cifra;Valor anterior;Valor nuevo;Valor nuevo sin redondear;Cambia más de 0,1
+General;Índice de anuncios de alquiler el último día;84,5;84,5;84,5113;no
+General;Variación del €/m² de alquiler (mediana, %);2,4;2,4;2,4057;no
+General;Ciudades donde sube el €/m² de alquiler (de 22);19,0;19,0;19,0;no
+General;Índice de anuncios de venta el último día;104,0;104,0;104,0669;no
+General;Variación del €/m² de venta (mediana, %);-0,1;-0,1;-0,067;no
+Anuncios de alquiler (%);A Coruña;-32,0;-32,0;-31,9149;no
+Anuncios de alquiler (%);Gijón;-28,0;-28,0;-27,8539;no
+Anuncios de alquiler (%);Granada;-25,0;-25,0;-25,1605;no
+Anuncios de alquiler (%);Madrid;-10,5;-10,5;-10,5419;no
+Anuncios de alquiler (%);Barcelona;-6,0;-6,0;-6,3401;no
+Anuncios de alquiler (%);Palma;-1,0;-1,0;-1,0649;no
+€/m² de alquiler (%);A Coruña;7,8;7,8;7,7941;no
+€/m² de alquiler (%);Valladolid;6,9;6,9;6,8586;no
+€/m² de alquiler (%);Barcelona;-2,1;-2,1;-2,1257;no
+€/m² de alquiler (%);Palma;-3,8;-3,8;-3,8181;no
+€/m² de alquiler (%);Córdoba (el informe dice: baja ligeramente);;-0,6;-0,5698;revisar a mano
+Venta;"Ciudades con anuncios de venta entre +2 % y +7 % (de 22; el informe dice: la mayoría)";;15,0;15,0;revisar a mano
+Totales 22 ciudades;Anuncios de alquiler (diferencia);-3420,0;-3429,0;-3429,0;SÍ
+Totales 22 ciudades;Anuncios de venta (diferencia);3405,0;3405,0;3405,0;no
+Madrid;Anuncios de alquiler (diferencia);-963,0;-963,0;-963,0;no
+Madrid;Anuncios de alquiler (%);-10,5;-10,5;-10,5419;no
+Madrid;Anuncios de venta (diferencia);1016,0;1016,0;1016,0;no
+Madrid;Anuncios de venta (%);5,4;5,4;5,3669;no
+Spearman;Alquiler frente a venta, en % (ρ);0,07;0,07;0,0672;no
+Spearman;Alquiler frente a venta, en % (p);0,77;0,77;0,7664;no
+Spearman;Alquiler frente a venta por cada 100 anuncios iniciales (ρ);0,25;0,25;0,2524;no
+Spearman;Alquiler frente a venta por cada 100 anuncios iniciales (p);0,26;0,26;0,2571;no
+Spearman;Anuncios de alquiler frente a €/m² de alquiler (ρ);-0,31;-0,31;-0,3089;no
+Spearman;Anuncios de alquiler frente a €/m² de alquiler (p);0,16;0,16;0,1619;no
+Madrid otoños;2026: €/m² el 6 oct;29,43;29,43;29,43;no
+Madrid otoños;2026: €/m² al final;30,32;30,32;30,32;no
+Madrid otoños;2026: variación (%);3,0;3,0;3,0241;no
+Madrid otoños;2007-2025: cambio mínimo sep-oct (%);-1,9;-1,9;-1,9355;no
+Madrid otoños;2007-2025: cambio máximo sep-oct (%);1,1;1,1;1,105;no
+Madrid otoños;2007-2025: mediana sep-oct (%);0,0;0,0;0,0;no
+Madrid otoños;Número de otoños;19,0;19,0;19,0;no
